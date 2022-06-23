@@ -1,2 +1,2 @@
 #DEMO
-testing how to use git & github for the first time....
+testing how to use git & github for the first time.... and it cool..
